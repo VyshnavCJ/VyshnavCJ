@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/3wsrhM8EFqSprUAxbv/giphy.gif" width="100"/>
 </div>
 
+### Currently pursuing B.Tech in CSE at [RIT, Kottayam](http://www.rit.ac.in/)
+
 - 🔭 I’m currently working on E-commerce Project
 - 🌱 I’m currently learning docker & blockchain
 - 📫 How to reach me:&nbsp;&nbsp; <a href = 'https://www.instagram.com/vyshnav_c_j/'><img src = 'https://user-images.githubusercontent.com/69347001/175823577-1f701eb0-6a57-49ba-a681-03ae47f56f39.png' width='22px'></a>
