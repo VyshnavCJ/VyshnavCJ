@@ -24,11 +24,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnavCJ&layout=compact)
 
-# Repos
-
-
-[![Job API](https://github-readme-stats.vercel.app/api/pin/?username=VyshnavCJ&repo=Job-API)](https://github.com/VyshnavCJ/Job-API)
-
 
 
 **Languages and Tools:** 
