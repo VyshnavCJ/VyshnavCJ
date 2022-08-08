@@ -26,12 +26,10 @@
 
 # Repos
 
-[![File Upload](https://github-readme-stats.vercel.app/api/pin/?username=VyshnavCJ&repo=File-Upload)](https://github.com/VyshnavCJ/File-Upload)
 
 [![Job API](https://github-readme-stats.vercel.app/api/pin/?username=VyshnavCJ&repo=Job-API)](https://github.com/VyshnavCJ/Job-API)
 
 
-[![Store API](https://github-readme-stats.vercel.app/api/pin/?username=VyshnavCJ&repo=Store-API)](https://github.com/VyshnavCJ/Store-API)
 
 **Languages and Tools:** 
 
