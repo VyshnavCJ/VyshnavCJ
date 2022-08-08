@@ -7,7 +7,7 @@
 ### Currently pursuing B.Tech in CSE at [RIT, Kottayam](http://www.rit.ac.in/)
 
 - 🔭 I’m currently working on E-commerce Project
-- 🌱 I’m currently learning docker & blockchain
+- 🌱 I’m currently learning data structure and algorithm
 - 📫 How to reach me:&nbsp;&nbsp; <a href = 'https://www.instagram.com/vyshnav_c_j/'><img src = 'https://user-images.githubusercontent.com/69347001/175823577-1f701eb0-6a57-49ba-a681-03ae47f56f39.png' width='22px'></a>
 &nbsp;&nbsp;
  <a href = 'https://www.linkedin.com/in/vyshnav-c-j-80027a209/'><img src = 'https://user-images.githubusercontent.com/69347001/175823580-be0587f1-7bb0-431d-96a6-7b88cc3da4a0.png' width='22px'></a>
