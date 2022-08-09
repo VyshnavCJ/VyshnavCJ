@@ -17,7 +17,7 @@
  &nbsp;&nbsp;
  <a href = 'https://www.hackerrank.com/vyshnavcj'><img src="https://user-images.githubusercontent.com/69347001/175824542-bb02bfa5-f424-4135-b9b9-08f68bda6d42.svg" width='22px'/></a>
 <br/>
-- 🌱 I’m currently learning Data Structures and Algorithms
+
 
 
 
