@@ -23,7 +23,12 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=VyshnavCJ&theme=synthwave&show_icons=true&count_private=true)
+# 📊 GitHub Stats:
+<div align="center" width=100%>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=VyshnavCJ&theme=prussian&hide_border=true)<br/>
+
+</div>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnavCJ&layout=compact)
 
