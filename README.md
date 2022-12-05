@@ -16,7 +16,6 @@
  &nbsp;&nbsp;
  <a href = 'https://twitter.com/Vyshnav_C_J'><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width='22px'/></a>
  &nbsp;&nbsp;
- <a href = 'https://www.hackerrank.com/vyshnavcj'><img src="https://user-images.githubusercontent.com/69347001/175824542-bb02bfa5-f424-4135-b9b9-08f68bda6d42.svg" width='22px'/></a>
 <br/>
 
 
