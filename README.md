@@ -6,7 +6,7 @@
 
 ### Currently pursuing B.Tech in CSE at [RIT, Kottayam](http://www.rit.ac.in/)
 
-- 🔭 Currently thinking ideas for new project
+- 🔭 Currently thinking new project ideas
 - 🌱 Currently learning Data Structures and Algorithms
 - ⌨ Here's my [Leetcode](https://leetcode.com/vyshnavcj/), [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vyshnav_c_j)  profile
 - 👽 Here's my [Resume](https://drive.google.com/file/d/11AgeJc6nQ8Rs8kN0DtUX7qvynnAnSril/view?usp=sharing)
