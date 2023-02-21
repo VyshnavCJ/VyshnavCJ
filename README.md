@@ -39,5 +39,4 @@
 
 **Languages and Tools:** 
 
-<img align="left" alt="git" width="40px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
-<img align="left" alt="git" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+[![My Skills](https://skills.thijs.gg/icons?i=java,cpp,nodejs,css,git,html,js,docker,mongodb,unity,c&theme=dark)](https://skills.thijs.gg)
