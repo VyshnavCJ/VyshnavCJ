@@ -39,4 +39,4 @@
 
 **Languages and Tools:** 
 
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,js,css,html,git,nodejs,mongodb&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,js,ts,jest,css,html,git,nodejs,mongodb&theme=dark)](https://skills.thijs.gg)
