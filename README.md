@@ -9,7 +9,7 @@
 - 🔭 Currently thinking new project ideas
 - 🌱 Currently learning Data Structures and Algorithms
 - ⌨ Here's my [Leetcode](https://leetcode.com/vyshnavcj/), [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vyshnav_c_j)  profile
-- 👽 Here's my [Resume]((https://drive.google.com/file/d/1XZ3iyDX18fQDJ1aYLDv8MtZzvZtYQj96/view?usp=sharing))
+- 👽 Here's my [Resume](https://drive.google.com/file/d/1XZ3iyDX18fQDJ1aYLDv8MtZzvZtYQj96/view?usp=sharing)
 - 📫 How to reach me:&nbsp;&nbsp; <a href = 'https://www.instagram.com/vyshnav_c_j/'><img src = 'https://user-images.githubusercontent.com/69347001/175823577-1f701eb0-6a57-49ba-a681-03ae47f56f39.png' width='22px'></a>
 &nbsp;&nbsp;
  <a href = 'https://www.linkedin.com/in/vyshnavcj'><img src = 'https://user-images.githubusercontent.com/69347001/175823580-be0587f1-7bb0-431d-96a6-7b88cc3da4a0.png' width='22px'></a>
