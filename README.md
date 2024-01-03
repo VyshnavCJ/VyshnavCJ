@@ -13,10 +13,14 @@
 
 
 ## 📊 GitHub Stats:
-![Vyshnav C J's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VyshnavCJ&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=VyshnavCJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnavCJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div>
+  <p align="center">
+    <img height="160" alt="Vyshnav's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VyshnavCJ&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />    <img alt="Aromal's Github Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnavCJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </p>  
+  <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VyshnavCJ&theme=dark&hide_border=false"/>
+  </p>
+</div>
 
 
 
