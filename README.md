@@ -19,7 +19,7 @@
 </p>
 
 
-### 🌐 Socials:
+### 🌐 Socials
 <div>
   <a href="mailto:vyshnavjenilkumarcc@gmail.com"><img src="https://img.shields.io/badge/-vyshnavjenilkumarcc%40gmail.com-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  
   <a href="https://www.instagram.com/vyshnav_c_j">   <img src="https://img.shields.io/badge/Vyshnav C J-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
@@ -32,7 +32,7 @@
 
 
 
-### ⚙️ GitHub Stats:
+### ⚙️ GitHub Stats
 <div>
   <p align="center">
     <img height="160" alt="Vyshnav's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VyshnavCJ&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />    <img alt="Aromal's Github Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnavCJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
