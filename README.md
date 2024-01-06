@@ -28,7 +28,7 @@
 </div>
 
 ### 🛠 Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,js,ts,mysql,css,html,git,nodejs,express,mongodb,jest,postman,git,neovim&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,js,ts,mysql,css,html,git,nodejs,express,mongodb,jest,postman,git,neovim,linux&theme=dark)](https://skills.thijs.gg)
 
 
 
