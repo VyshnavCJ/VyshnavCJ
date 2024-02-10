@@ -2,7 +2,7 @@
 ![banner](https://github.com/VyshnavCJ/VyshnavCJ/assets/69347001/21da9c50-b24a-4e06-95c7-32dd47a6f7c2)
 
 ### 👨🏻‍💻  About Me
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Student+Developer+and+Engineer;" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Backend+Developer+and+Engineer;" height="40"/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3wsrhM8EFqSprUAxbv/giphy.gif" width="100"/>
 </div>
