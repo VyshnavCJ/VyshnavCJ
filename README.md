@@ -1,5 +1,6 @@
 
-![banner](https://github.com/VyshnavCJ/VyshnavCJ/assets/69347001/21da9c50-b24a-4e06-95c7-32dd47a6f7c2)
+
+![bannar](https://github.com/VyshnavCJ/VyshnavCJ/assets/69347001/660e14c9-0b94-4c57-874d-66ba2090ee73)
 
 ### 👨🏻‍💻  About Me
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Backend+Developer+and+Engineer;" height="40"/>
