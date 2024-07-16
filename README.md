@@ -26,7 +26,7 @@
 </div>
 
 ### 🛠 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,js,ts,mysql,css,html,nodejs,express,mongodb,jest,postman,git,neovim,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,mysql,css,html,nodejs,express,mongodb,dotnet,jest,postman,git,neovim,linux,bash&theme=dark)](https://skillicons.dev)
 
 
 
