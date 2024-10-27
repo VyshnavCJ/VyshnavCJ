@@ -20,7 +20,7 @@
 
 ### 🌐 Socials
 <div>
-  <a href="mailto:vyshnavjenilkumarcc@gmail.com"><img src="https://img.shields.io/badge/-vyshnavjenilkumarcc%40gmail.com-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  
+  <a href="mailto:vyshnavcj@protonmail.com"><img src="https://img.shields.io/badge/-vyshnavjenilkumarcc%40gmail.com-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  
   <a href="https://www.linkedin.com/in/vyshnavcj"><img src="https://img.shields.io/badge/Vyshnav C J-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
   <a href="https://twitter.com/Vyshnav_C_J"><img src="https://img.shields.io/badge/Vyshnav C J-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white"></a>
 </div>
