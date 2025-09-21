@@ -7,9 +7,9 @@
   <img src="https://media.giphy.com/media/3wsrhM8EFqSprUAxbv/giphy.gif" width="100"/>
 </div>
 
-🔭 Currently digging for new ideas \
-🌱 Currently learning DSA and System Design \
-♟️ I’m passionate about Backend development and Low-level programming (and something more I think :>) \
+🔭 Digging for new ideas \
+🌱 Learning DSA and System Design \
+♟️ Passionate about Backend development and Low-level programming (and something more I think :>) \
 👽 Here's my [Resume](https://drive.google.com/file/d/1o7OorlTqBC8SjWs9Mg7MyzsqhfM1mvCB/view?usp=sharing) 
 
 ### 🌐 Socials
