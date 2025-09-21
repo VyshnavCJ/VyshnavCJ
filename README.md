@@ -12,12 +12,6 @@
 ♟️ I’m passionate about Backend development and Low-level programming (and something more I think :>) \
 👽 Here's my [Resume](https://drive.google.com/file/d/1o7OorlTqBC8SjWs9Mg7MyzsqhfM1mvCB/view?usp=sharing) 
 
-### 💻 Coding Profiles
-<p >
-  <a href="https://leetcode.com/vyshnavcj/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-</p>
-
-
 ### 🌐 Socials
 <div>
   <a href="mailto:vyshnavcj@protonmail.com"><img src="https://img.shields.io/badge/-vyshnavcj%40protonmail.com-7B83EB?&style=for-the-badge&logo=Protonmail&logoColor=white" ></a>  
