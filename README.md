@@ -22,16 +22,3 @@
 ### 🛠 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,mysql,css,html,nodejs,express,mongodb,dotnet,jest,postman,git,neovim,linux,bash&theme=dark)](https://skillicons.dev)
 
-
-
-### ⚙️ GitHub Stats
-<div>
-  <p align="center">
-    <img height="160" alt="Vyshnav's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VyshnavCJ&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />    <img alt="Vyshnav's Github Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnavCJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </p>  
-  <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VyshnavCJ&theme=dark&hide_border=false"/>
-  </p>
-</div>
-
-<h3><p> <img src="https://komarev.com/ghpvc/?username=VyshnavCJ&label=Profile%20views&color=6805D3&style=flat" alt="VyshnavCJ" /> </p></h3>
