@@ -3,9 +3,6 @@
 
 ### 👨🏻‍💻  About Me
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Backend+Engineer;" height="40"/>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3wsrhM8EFqSprUAxbv/giphy.gif" width="100"/>
-</div>
 
 🔭 Digging for new ideas \
 🌱 Learning DSA and System Design \
