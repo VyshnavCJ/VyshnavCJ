@@ -2,7 +2,7 @@
 ![Bannar](https://github.com/VyshnavCJ/VyshnavCJ/assets/69347001/84edeb3a-8534-44d3-a7ad-afdaae7c032a)
 
 ### 👨🏻‍💻  About Me
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Backend+Developer+and+Engineer;" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Backend+Engineer;" height="40"/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3wsrhM8EFqSprUAxbv/giphy.gif" width="100"/>
 </div>
