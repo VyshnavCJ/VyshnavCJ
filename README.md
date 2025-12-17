@@ -16,6 +16,3 @@
   <a href="https://twitter.com/Vyshnav_C_J"><img src="https://img.shields.io/badge/Vyshnav C J-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white"></a>
 </div>
 
-### 🛠 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,mysql,css,html,nodejs,express,mongodb,dotnet,jest,postman,git,neovim,linux,bash&theme=dark)](https://skillicons.dev)
-
