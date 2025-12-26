@@ -7,7 +7,7 @@
 🔭 Digging for new ideas \
 🌱 Learning DSA and System Design \
 ♟️ Passionate about Backend development and Low-level programming (and something more I think :>) \
-👽 Here's my [Resume](https://drive.google.com/file/d/1o7OorlTqBC8SjWs9Mg7MyzsqhfM1mvCB/view?usp=sharing) 
+👽 Here's my [Resume](https://drive.google.com/file/d/1DPEy1aRI6oyFr2Bmc1eqQ3MjygCXMTm2/view?usp=drivesdk) 
 
 ### 🌐 Socials
 <div>
